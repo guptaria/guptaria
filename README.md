@@ -1,6 +1,8 @@
-### Priya Garg
+## <b>Priya Garg </b>
 
-About Me :
+<!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+
+<b>About Me :</b>
 <p>I’m a certified Full Stack Web Developer (University of Texas in Austin) who is very passionateabout learning new things. I’m a
 constant learner who’s continually
 looking for ways to help advance my
@@ -16,10 +18,11 @@ Painting and Travel.Proactive in learning new skills and knowledge with core com
 Life-long dedication to learning and in self development. Quick-learner, very organized, ability to work under pressure, collaborative communicator. I look forward to bringing my skills and passion for software development to build user focused applications.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=guptaria)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=guptaria)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-view raw
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PriyaGarg&repo=guptaria)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guptaria&show_icons=true&theme=radical)
+
 
 
 
